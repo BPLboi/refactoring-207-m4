@@ -1,3 +1,5 @@
+45993b9 Finished Task 2.4 (forgot to update log earlier)
+6b21c4d Finished Task 2.4
 2f945e6 Finished Task 2.3
 8d39c98 Finished Task 2.2 (forgot to stage src last time)
 82942c5 Finished Task 2.2
